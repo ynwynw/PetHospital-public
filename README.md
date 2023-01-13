@@ -2,7 +2,11 @@
 
 **需要完整代码可以加扣扣  931708230 或者加卫星  ynwwxid**
 
-#java web#java #毕业设计 #宠物交易领养系统 #springboot#课程设计#编程#vue#mybatis#源代码
+**博客地址：[https://blog.csdn.net/2303_76227485/article/details/128650012](https://blog.csdn.net/2303_76227485/article/details/128650012)**
+
+**视频演示：[https://www.bilibili.com/video/BV1CP4y1i7RX/](https://www.bilibili.com/video/BV1CP4y1i7RX/)**
+
+**毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
 ## 基于springboot的宠物商城系统(源代码+数据库)
 
