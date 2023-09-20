@@ -8,7 +8,7 @@
 
 **毕业设计所有选题地址：[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
 
-## 基于springboot的宠物商城系统(源代码+数据库)
+## 基于springboot的宠物商城系统(源代码+数据库+万字论文)
 
 ## 一、系统介绍
 
